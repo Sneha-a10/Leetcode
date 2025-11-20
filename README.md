@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="leetcode_banner.png" alt="LeetCode Daily Solutions Banner" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Languages-C++%20%7C%20Python-blue" alt="Languages">
-  <img src="https://img.shields.io/badge/LearnYard%20Progress-35%25-brightgreen" alt="LearnYard Progress">
-</p>
-
 # LeetCode Daily Solutions — C++ & Python
 
 This repository contains my **daily LeetCode solutions**, written mainly in **optimized C++** with occasional **Python** implementations.  
@@ -100,3 +91,6 @@ Each of these folders follows the same internal structure with `version/` direct
 - Build strong **DSA fundamentals** with a guided sheet  
 - Improve **implementation clarity and efficiency** in C++  
 - Preserve a full history of attempts, optimizations, and refactors  
+
+---
+
